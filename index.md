@@ -89,7 +89,7 @@ Our team comprises experts in renewable energy, materials science, and digital t
 
 {%
   include feature.html
-  image="images/Group-2.jpg"
+  image="images/group-2.jpg"
   link="team"
   title="Our Team"
   text=text
